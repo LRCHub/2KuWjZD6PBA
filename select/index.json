@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "It's Going Down Now",
+  "base_artist": "Azumi Takahashi、Lotus Juice、アトラスサウンドチーム",
+  "createdAt": "2026-03-24T05:33:59.327014Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Its Going Down NOW",
+      "artist": "ziodyne",
+      "has_synced": true,
+      "path": "select/01_Its_Going_Down_NOW_ziodyne.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "It's Going Down Now",
+      "artist": "ziodyne",
+      "has_synced": true,
+      "path": "select/02_It's_Going_Down_Now_ziodyne.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "It's Going Down Now",
+      "artist": "Azumi Takahashi",
+      "has_synced": true,
+      "path": "select/03_It's_Going_Down_Now_Azumi_Takahashi.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "It's Going Down Now",
+      "artist": "Chewie Melodies • Pealeaf",
+      "has_synced": true,
+      "path": "select/04_It's_Going_Down_Now_Chewie_Melodies_•_Pealeaf.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "It’s Going Down Now",
+      "artist": "アトラスサウンドチーム",
+      "has_synced": true,
+      "path": "select/05_It’s_Going_Down_Now_アトラスサウンドチーム.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "It's Going Down Now",
+      "artist": "Chewie Melodies",
+      "has_synced": true,
+      "path": "select/06_It's_Going_Down_Now_Chewie_Melodies.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "It’s Going Down Now",
+      "artist": "アトラスサウンドチーム",
+      "has_synced": true,
+      "path": "select/07_It’s_Going_Down_Now_アトラスサウンドチーム.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "It’s Going Down Now",
+      "artist": "アトラスサウンドチーム",
+      "has_synced": true,
+      "path": "select/08_It’s_Going_Down_Now_アトラスサウンドチーム.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "It’s Going Down Now",
+      "artist": "アトラスサウンドチーム",
+      "has_synced": true,
+      "path": "select/09_It’s_Going_Down_Now_アトラスサウンドチーム.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "It's Going Down Now",
+      "artist": "Atlus",
+      "has_synced": true,
+      "path": "select/10_It's_Going_Down_Now_Atlus.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "It's Going Down Now",
+      "artist": "アトラスサウンドチーム",
+      "has_synced": true,
+      "path": "select/11_It's_Going_Down_Now_アトラスサウンドチーム.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "It’s Going Down Now",
+      "artist": "ATLUS Sound Team",
+      "has_synced": true,
+      "path": "select/12_It’s_Going_Down_Now_ATLUS_Sound_Team.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "It’s Going Down Now",
+      "artist": "アトラスサウンドチーム",
+      "has_synced": true,
+      "path": "select/13_It’s_Going_Down_Now_アトラスサウンドチーム.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "It's Going Down Now",
+      "artist": "ziodyne",
+      "has_synced": true,
+      "path": "select/14_It's_Going_Down_Now_ziodyne.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "It's Going Down Now",
+      "artist": "Chewie Melodies & Pealeaf",
+      "has_synced": true,
+      "path": "select/15_It's_Going_Down_Now_Chewie_Melodies_&_Pealeaf.lrc"
+    }
+  ]
+}
